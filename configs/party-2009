@@ -1,0 +1,11 @@
+Zutaten: 
+Data "", "Gin" , "Rum" , "Tequila" , "Wodka" , "Orangenlikoer" , "Pfirsichlikoer" , "Cola" , "gesperrt" , "Orangensaft" , "Zitronensaft" , "Cranberry Saft" , "Grenadinensirup" 
+
+Namen: 
+Data "Long Island Icetea         " , "Long Beach Icetea          " , "Long Island Iced Tea       " , "Wodka-O                    " , "Sex on the Beach           " , "Tequila Sunrise            " , "Margarita                  " , "White Lady                 " , "Barcadi Cola               " 
+
+Kommentare: 
+Data "Gin, Rum, Tequila, Wodka" , "Mit Sprite auffuellen   " , "mit Cranberry Saft      " , "Wodka, O-Saft           " , "Wodka, O-Saft, Pfirsichl" , "Tequila, Orangensaft    " , "Tequila, Orangenl, Citru" , "Gin, Orangenl, Citrus   " , "Brauner Rum, Cola       " 
+
+Mengen: 
+Data 20%, 20%, 20%, 20%, 0%, 20%, 100%, 0%, 20%, 20%, 0%, 0%, 20%, 20%, 20%, 20%, 0%, 0%, 0%, 0%, 20%, 30%, 0%, 0%, 20%, 20%, 20%, 20%, 20%, 0%, 0%, 0%, 20%, 20%, 100%, 0%, 0%, 0%, 0%, 60%, 0%, 0%, 0%, 0%, 180%, 0%, 0%, 0%, 0%, 0%, 0%, 55%, 0%, 25%, 0%, 0%, 110%, 25%, 25%, 0%, 0%, 0%, 55%, 0%, 0%, 0%, 0%, 0%, 160%, 0%, 0%, 25%, 0%, 0%, 60%, 0%, 30%, 0%, 0%, 0%, 0%, 30%, 0%, 0%, 60%, 0%, 0%, 0%, 30%, 0%, 0%, 0%, 0%, 30%, 0%, 0%, 0%, 60%, 0%, 0%, 0%, 0%, 180%, 0%, 0%, 0%, 0%, 0%

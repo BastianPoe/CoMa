@@ -1,0 +1,47 @@
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+	font-size: 10px;
+	font-weight: normal;
+	margin-top: 4px;
+}
+
+input, select.p, textarea.p {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	border: #7f9db9 solid 1px;
+}
+
+p {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+a:link    { color: #242467; text-decoration: none; }
+a:visited { color: #242467; text-decoration: none; }
+a:active  { color: #242467; text-decoration: none; }
+a:hover   { color: #242467; text-decoration: underline; }
+
+.overlaydiv {
+	display: none; 
+	background-color: #C0C0C0;
+	position: fixed; 
+	bottom: 10px; 
+	right: 10px; 
+	border-style: solid; 
+	border-width: 1px;
+	padding: 5px;
+}
+
+.Info {
+	background-color: #EEEEEE;
+	padding: 5px;
+}

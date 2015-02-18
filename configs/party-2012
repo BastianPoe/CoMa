@@ -1,0 +1,11 @@
+Zutaten: 
+Data "", "Gin" , "Rum" , "Tequila" , "Wodka" , "Orangenlikoer" , "Pfirsichlikoer" , "Cola" , "Mate" , "Orangensaft" , "Zitronensaft" , "Cranberry Saft" , "Grenadinensirup" 
+
+Namen: 
+Data "Long Island Icetea LONG    " , "Long Beach Icetea LONG     " , "Long Island Iced Tea LONG  " , "Wodka-O LONG               " , "Sex on the Beach LONG      " , "Tequila Sunrise LONG       " , "Margarita SHORT            " , "White Lady SHORT           " , "Barcadi Cola LONG          " , "Wodka Sunrise LONG         " , "Tequila Pink LONG          " , "Revolucion LONG            " , "Mexican Screwdriver LONG   " , "Spocht-Getraenk LONG       " , "Matequila LONG             " , "Mate pur LONG              " 
+
+Kommentare: 
+Data "Gin, Rum, Tequila, Cola " , "Mit Sprite auffuellen   " , "Gin, Rum, Tequila, Cranb" , "Wodka, O-Saft           " , "Wodka, O-Saft, Pfirsichl" , "Tequila, Orangensaft    " , "Tequila, Orangenl, Zitro" , "Gin, Orangenl, Citrus   " , "Brauner Rum, Cola       " , "Wodka, Orangensaft      " , "Tequila, Rum, O-Saft    " , "Wodka, Tequila, O-Saft  " , "Tequila, Orangensaft    " , "Mate, Rum               " , "Mate, Tequila           " , "alkoholfrei             " 
+
+Mengen: 
+Data 20%, 20%, 20%, 20%, 0%, 20%, 80%, 0%, 30%, 30%, 0%, 0%, 20%, 20%, 20%, 20%, 0%, 0%, 0%, 0%, 30%, 40%, 0%, 0%, 20%, 20%, 20%, 20%, 20%, 0%, 0%, 0%, 30%, 30%, 80%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 190%, 0%, 0%, 0%, 0%, 0%, 0%, 40%, 0%, 20%, 0%, 0%, 120%, 30%, 30%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 0%, 160%, 0%, 0%, 30%, 0%, 0%, 50%, 0%, 20%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 50%, 0%, 0%, 0%, 20%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 190%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 150%, 20%, 0%, 20%, 0%, 20%, 40%, 0%, 20%, 0%, 0%, 0%, 90%, 30%, 0%, 40%, 0%, 0%, 40%, 40%, 0%, 0%, 0%, 0%, 160%, 0%, 0%, 0%, 0%, 0%, 40%, 0%, 0%, 0%, 0%, 0%, 200%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 0%, 190%, 0%, 0%, 0%, 0%, 0%, 0%, 50%, 0%, 0%, 0%, 0%, 190%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 240%, 0%, 0%, 0%, 0%
